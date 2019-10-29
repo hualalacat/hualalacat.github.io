@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>琐s on Parsa | Personal Blog Template</title>
+    <link>https://hualalacat.github.io/tags/%E7%90%90s/</link>
+    <description>Recent content in 琐s on Parsa | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2019 20:05:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://hualalacat.github.io/tags/%E7%90%90s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇博客</title>
+      <link>https://hualalacat.github.io/blog/</link>
+      <pubDate>Mon, 28 Oct 2019 20:05:22 +0800</pubDate>
+      
+      <guid>https://hualalacat.github.io/blog/</guid>
+      <description>今天历时八个小时终于搭建好了自己的Hugo博客，灰常感谢某位不愿透露姓名的大佬的支持。
+第一篇博客就用来谨记大佬教诲，大佬牛逼！
+(^▽^)晚安各位！</description>
+    </item>
+    
+  </channel>
+</rss>
