@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numpy on Parsa | Personal Blog Template</title>
+    <link>https://hualalacat.github.io/categories/numpy/</link>
+    <description>Recent content in Numpy on Parsa | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2019 11:07:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://hualalacat.github.io/categories/numpy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Numpy</title>
+      <link>https://hualalacat.github.io/numpy/</link>
+      <pubDate>Mon, 04 Nov 2019 11:07:29 +0800</pubDate>
+      
+      <guid>https://hualalacat.github.io/numpy/</guid>
+      <description>最近在学数据分析，现在总结一下Numpy库的基本使用方法，加强记忆。
+首先引入numpy库
+import numpy as np
+现使用np.array()即可创建一个数组，括号里填入数列，如:a=np.array([1,2,3])
+还可在括号里加上dtype=None改变其数据类型，数据类型如：bool_、int8~64、uint8~64、float16~64
+np.ones(shape) np.zeros(shape) np.</description>
+    </item>
+    
+  </channel>
+</rss>
